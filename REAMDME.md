@@ -20,13 +20,12 @@ You can run the project on your IDE of choice or straight from the computer with
 git clone https://github.com/your_username/VidmotLokaverkefni.git
 
 2. Navigation to project directory :
-cd VidmotLokaverkefni
+cd LokaverkefniHB
 
 3. Compile the project:
 mvn compile
-4. Package the project:
-   mvn package
-5. Then run the program :
+
+4. Then run the program :
 mvn javafx:run
 
 
