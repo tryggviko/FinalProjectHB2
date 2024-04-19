@@ -41,4 +41,8 @@ src/: Contains the source code for the project.
 
 pom.xml: Maven configuration file specifying project dependencies and build settings.
 
+UML
+
+[Link here to UML diagram](UMLDiagrams/UMLmynd.png)
+
 
